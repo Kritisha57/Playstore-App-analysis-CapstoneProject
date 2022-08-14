@@ -1,0 +1,2 @@
+# Playstore-App-analysis-CapstoneProject
+This repository provides data analysis on a data set containing various apps data available on playstore. It answers questions like which category of apps are most installed?,how are the ratings and reviews? , what percentage of apps are free and what are paid?, Which agegroup accesses which category of apps etc. The project was made as a capstone project in Alma Better Madrid cohort
